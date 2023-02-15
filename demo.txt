@@ -1,0 +1,4 @@
+pushing file
+
+:q
+exit
